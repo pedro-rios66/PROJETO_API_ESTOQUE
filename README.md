@@ -42,6 +42,7 @@ estoque_api/
 │   ├── models.py            # Modelos ORM: Produto, Pedido, ItemPedido
 │   ├── schemas.py           # Esquemas Pydantic para validação e resposta
 │   ├── services.py          # Camada de lógica e regras de negócio
+│   ├── requirements.txt     # Camada descritiva das tecnologias empregadas
 └── README.md
 ```
 
@@ -60,7 +61,7 @@ estoque_api/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/estoque_api.git
+git clone https://github.com/pedro-rios66/PROJETO_API_ESTOQUE.git
 cd estoque_api
 ```
 
@@ -124,4 +125,4 @@ Recomendado o uso de:
 
 ## 👨‍💻 Autor
 
-Feito com 💻 e ⚙️ por [Pedro Rios]
+Feito por [Pedro Rios]
